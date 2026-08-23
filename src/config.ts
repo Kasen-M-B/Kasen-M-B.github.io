@@ -29,7 +29,7 @@ export const siteConfig = {
     {
       name: "Sub0ptimal",
       description:
-        "Video game made in Unity. Five developers for part of development process with a 3 year developmenmt time. I was project lead. 22,000+ copies distributed as of 8/22/26",
+        "Independent video game made in Unity. Worked with five developers for part of development process with a 3 year developmenmt time. I was project lead. 22,000+ copies distributed as of 8/22/26",
       link: "https://store.steampowered.com/app/3256900/Sub0ptimal/",
       skills: ["C#", "Video editing", "Unity", "Graphic design", "Sound design"],
     },
