@@ -1,17 +1,30 @@
 export const siteConfig = {
   name: "Kasen Benton",
-  title: "MIS Student | Aspiring System Analyst",
+  title: "MIS Student | Aspiring Systems Analyst",
   description: "Portfolio website of Kasen Benton",
   accentColor: "#FF7300",
+
   social: {
     email: "kasen.benton@gmail.com",
     linkedin: "https://www.linkedin.com/in/kasen-benton-397905400/",
-    twitter: "https://x.com/rfitzio",
+    resume: "/resume.pdf".,
     github: "https://github.com/Kasen-M-B",
   },
+
   aboutMe:
-    "I'm Kasen, a MIS student at Oklahoma state university! I like to create games and other programs. When a idea gets into my head, chances are I'll create it.",
-  skills: ["Python", "C#", "Unity", "Excel", "Graphic design", "Video editing", "Sound design", "Project management"],
+    "I'm Kasen, an MIS student at Oklahoma State University! I like to create games and other programs. When an idea gets into my head, chances are I'll create it.",
+
+  skills: [
+    "Python",
+    "C#",
+    "Unity",
+    "Excel",
+    "Graphic Design",
+    "Video Editing",
+    "Sound Design",
+    "Project Management",
+  ],
+
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -21,7 +34,7 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Chrome Extension Mastery",
       description:
         "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
       link: "https://fullstackextensions.com/?ref=devportfolio",
@@ -35,8 +48,10 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
   ],
-  // Will add when relevant experince is gained :)
-  /*experience: [
+
+  // Will add when relevant experience is gained :)
+  /*
+  experience: [
     {
       company: "Tech Company",
       title: "Senior Software Engineer",
@@ -67,7 +82,9 @@ export const siteConfig = {
         "Introduced modern JavaScript frameworks to legacy codebases",
       ],
     },
-  */],
+  ],
+  */
+
   education: [
     {
       school: "Oklahoma State University",
