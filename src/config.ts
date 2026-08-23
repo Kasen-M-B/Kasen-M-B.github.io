@@ -7,7 +7,7 @@ export const siteConfig = {
   social: {
     email: "kasen.benton@gmail.com",
     linkedin: "https://www.linkedin.com/in/kasen-benton-397905400/",
-    resume: "/resume.pdf",
+    resume: "/Resume.pdf",
     github: "https://github.com/Kasen-M-B",
   },
 
