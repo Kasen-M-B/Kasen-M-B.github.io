@@ -10,8 +10,8 @@ export const siteConfig = {
     github: "https://github.com/Kasen-M-B",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I'm Kasen, a MIS student at Oklahoma state university! I like to create games and other programs. When a idea gets into my head, chances are I'll create it.",
+  skills: ["Python", "C#", "Unity", "Excel", "Graphic design", "Video editing", "Sound design", "Project management"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
@@ -35,7 +35,8 @@ export const siteConfig = {
       skills: ["React", "Node.js", "AWS"],
     },
   ],
-  experience: [
+  // Will add when relevant experince is gained :)
+  /*experience: [
     {
       company: "Tech Company",
       title: "Senior Software Engineer",
@@ -66,27 +67,17 @@ export const siteConfig = {
         "Introduced modern JavaScript frameworks to legacy codebases",
       ],
     },
-  ],
+  */],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+      school: "Oklahoma State University",
+      degree: "Bachelor of Science in MIS",
+      dateRange: "2026 - current",
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
+      school: "Northern Oklahoma College",
+      degree: "Associate of Science in MIS",
+      dateRange: "2023 - 2026",
     },
   ],
 };
