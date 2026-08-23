@@ -59,11 +59,13 @@ export const siteConfig = {
       school: "Oklahoma State University",
       degree: "Bachelor of Science in MIS",
       dateRange: "2026 - current",
+      achievements: [],
     },
     {
       school: "Northern Oklahoma College",
       degree: "Associate of Science in MIS",
       dateRange: "2023 - 2026",
+      achievements: [],
     },
   ],
 };
