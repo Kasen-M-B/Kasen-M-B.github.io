@@ -34,9 +34,9 @@ export const siteConfig = {
       skills: ["C#", "Video editing", "Unity", "Graphic design", "Sound design"],
     },
     {
-      name: "Queue system",
+      name: "Unity item queue system",
       description:
-        "Simple C# system I developed to queue state transitions in my Unity project. While basic this fixed a real problem I had in my video game.",
+        "Simple C# system I developed to queue state transitions in my Unity project. This can queue a ienumerator behind another ienumerator. ie Automatically puts a item away then pull out a new one",
       link: "https://github.com/Kasen-M-B/Unity-item-queue-system",
       skills: ["C#", "iEnumerator", "interfaces"],
     },
