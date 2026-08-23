@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Kasen Benton",
-  title: "MIS Student | Aspiring Systems Analyst | hobbist video game developer",
+  title: "MIS Student | Aspiring Systems Analyst | hobbyist video game developer",
   description: "Portfolio website of Kasen Benton",
   accentColor: "#FF7300",
 
