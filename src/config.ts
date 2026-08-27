@@ -15,7 +15,6 @@ export const siteConfig = {
     "I'm Kasen, a MIS student at Oklahoma State University. I like to create games and other programs. When an idea gets into my head, chances are I'll create it. I have close to half a decade of experience making independent 3D video games in Unity, and I'm interested in databases and information systems. I learn fast, work hard, and finish projects.",
 
   skills: [
-    "Python",
     "C#",
     "Unity",
     "Excel",
