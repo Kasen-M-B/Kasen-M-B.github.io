@@ -12,7 +12,7 @@ export const siteConfig = {
   },
 
   aboutMe:
-    "I'm Kasen, a MIS student at Oklahoma State University. I like to create games and other programs. When an idea gets into my head, chances are I'll create it. I have close to half a decade of experience making independent 3D video games in Unity as a hobby, and I'm interested in databases and information systems. I learn fast, work hard, and finish projects.",
+    "I'm Kasen, a MIS student at Oklahoma State University. I like to create games and other programs. When an idea gets into my head, chances are I'll build it. I have close to half a decade of experience making independent 3D video games in Unity as a hobby, and I'm interested in databases, data/system/ business analytics, and backend web development. I’m a part of the data analytics club and marching band at Oklahoma State, always trying to learn something new. I learn fast, work hard, and finish what I start.",
 
   skills: [
     "C#",
